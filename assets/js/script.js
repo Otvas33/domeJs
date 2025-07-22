@@ -13,7 +13,7 @@ let texte = document.querySelector("p");
 console.log(texte);
 
 let para = texte.textContent;
-console.log(para);
+console.log(para); 
 
 
 
